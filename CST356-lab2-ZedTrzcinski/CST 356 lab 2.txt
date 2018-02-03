@@ -1,0 +1,18 @@
+Name: Zed Trzcinski
+Date: 01/27/2018
+
+Exercise 1:
+5-
+	d-C# DateTime Class 
+	e- browser
+Exercise 2:
+6- @HTML called html helper methods
+   in the creation of the view the related model must be mapped to the view that is being used to generate the data.
+7- we get an error becuase the functionality of implementing and displaying users does not exist yet.
+
+Exercise 3:
+3- the User data is not defined in the view but displayed in list.cshtml using a foreach loop
+
+Exercise 4:
+1- an empty name and other information will be created with that "year in schools"
+2- we would recives an error that will ask the user to put the missing fields.
