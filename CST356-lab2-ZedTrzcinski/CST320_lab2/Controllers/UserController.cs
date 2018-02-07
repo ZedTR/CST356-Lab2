@@ -39,12 +39,15 @@ namespace CST320_lab2.Controllers
 
                 }
             }
-            }
-            
+
             user.UserId = DataBase.NextId();
             DataBase.users.Add(user);
-
             return RedirectToAction("Index");
+         }
+
+           return View(user);
+
+
         }
       
         // GET: User
